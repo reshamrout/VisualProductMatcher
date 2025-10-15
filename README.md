@@ -19,35 +19,35 @@ It analyzes image embeddings, compares them using **cosine similarity**, and dis
 ## 🗂️ Project Structure
 visual-product-matcher/
 │
-├── public/
-│ ├── data/
-│ │ └── product.json # Local product dataset
-│ └── index.html
+├── public/  
+│ ├── data/  
+│ │ └── product.json # Local product dataset  
+│ └── index.html  
 │
-├── src/
-│ ├── App.js # Main React component
-│ ├── index.js
-│ └── styles/
-│ └── index.css # Tailwind CSS
+├── src/  
+│ ├── App.js # Main React component  
+│ ├── index.js  
+│ └── styles/  
+│ └── index.css # Tailwind CSS  
 │
-├── package.json
-├── tailwind.config.js
-├── .gitignore
-└── README.md
+├── package.json  
+├── tailwind.config.js  
+├── .gitignore  
+└── README.md  
 
 ---
 
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/reshamrout/VisualProductMatcher.git
+git clone https://github.com/reshamrout/VisualProductMatcher.git  
 cd visual-product-matcher
 
-2️⃣ Install dependencies
+2️⃣ Install dependencies  
 npm install
 
-3️⃣ Start the development server
-npm run dev
+3️⃣ Start the development server  
+npm run dev  
 Your app will run on http://localhost:5173/
 
 # How It Works
