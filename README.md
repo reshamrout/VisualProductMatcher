@@ -14,6 +14,8 @@ It analyzes image embeddings, compares them using **cosine similarity**, and dis
 - 🌐 Option to fetch product data from a backend API.
 - 💡 Clean, responsive UI built with **React + Tailwind CSS**.
 
+Project Live @ https://visual-product-matcher-dusky-zeta.vercel.app/
+
 ---
 
 ## 🗂️ Project Structure  
